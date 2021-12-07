@@ -1,15 +1,14 @@
 //
 // Created by mustafa on 12/6/21.
 //
-
 #include "iostream"
-#include "stdio.h"
 using namespace std;
 
 void update (int *a, int *b)
 {
+    int ab = *a;
     *a = *a + *b;
-    *b = *b - *a;
+    *b = abs(*b - ab);
 }
 int main()
 {
@@ -17,6 +16,6 @@ int main()
     int *pa = &a, *pb = &b;
     cin>>a>>b;
     update(pa, pb);
-    cout<<a<<b;
+    cout<<a<<"\n"<<b;
     return 0;
 }
