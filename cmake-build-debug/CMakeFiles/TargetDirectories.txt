@@ -1,3 +1,0 @@
-/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles/C___Work.dir

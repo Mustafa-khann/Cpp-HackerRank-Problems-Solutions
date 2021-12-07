@@ -1,4 +1,0 @@
-"/home/mustafa/Installed Soft/Clion-2021.2.2/bin/cmake/linux/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems"
--- Configuring done
--- Generating done
--- Build files have been written to: /media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug
