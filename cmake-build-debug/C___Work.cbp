@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Basic-Data-Types.cpp">
+			<Option target="C___Work"/>
+		</Unit>
+		<Unit filename="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Conditional-Statements.cpp">
+			<Option target="C___Work"/>
+		</Unit>
+		<Unit filename="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-HelloWorld!.cpp">
+			<Option target="C___Work"/>
+		</Unit>
+		<Unit filename="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Input-Output.cpp">
+			<Option target="C___Work"/>
+		</Unit>
 		<Unit filename="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/main.cpp">
 			<Option target="C___Work"/>
 		</Unit>

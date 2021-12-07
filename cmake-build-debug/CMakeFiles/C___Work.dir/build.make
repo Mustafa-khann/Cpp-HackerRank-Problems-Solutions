@@ -79,17 +79,77 @@ CMakeFiles/C___Work.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Work.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/main.cpp" -o CMakeFiles/C___Work.dir/main.cpp.s
 
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o: CMakeFiles/C___Work.dir/flags.make
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o: ../Hackerrank/Intro/Intro-HelloWorld!.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o -c "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-HelloWorld!.cpp"
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-HelloWorld!.cpp" > CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.i
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-HelloWorld!.cpp" -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.s
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o: CMakeFiles/C___Work.dir/flags.make
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o: ../Hackerrank/Intro/Intro-Input-Output.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o -c "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Input-Output.cpp"
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Input-Output.cpp" > CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.i
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Input-Output.cpp" -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.s
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o: CMakeFiles/C___Work.dir/flags.make
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o: ../Hackerrank/Intro/Intro-Basic-Data-Types.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o -c "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Basic-Data-Types.cpp"
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Basic-Data-Types.cpp" > CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.i
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Basic-Data-Types.cpp" -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.s
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o: CMakeFiles/C___Work.dir/flags.make
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o: ../Hackerrank/Intro/Intro-Conditional-Statements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o -c "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Conditional-Statements.cpp"
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Conditional-Statements.cpp" > CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.i
+
+CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/Hackerrank/Intro/Intro-Conditional-Statements.cpp" -o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.s
+
 # Object files for target C___Work
 C___Work_OBJECTS = \
-"CMakeFiles/C___Work.dir/main.cpp.o"
+"CMakeFiles/C___Work.dir/main.cpp.o" \
+"CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o" \
+"CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o" \
+"CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o" \
+"CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o"
 
 # External object files for target C___Work
 C___Work_EXTERNAL_OBJECTS =
 
 C___Work: CMakeFiles/C___Work.dir/main.cpp.o
+C___Work: CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o
+C___Work: CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o
+C___Work: CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o
+C___Work: CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o
 C___Work: CMakeFiles/C___Work.dir/build.make
 C___Work: CMakeFiles/C___Work.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C___Work"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/mustafa/F682F08D82F053992/Study/Side Hustle/Programming/Cpp Work/HackerRank Problems/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable C___Work"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C___Work.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
