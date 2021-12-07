@@ -4,29 +4,16 @@
 #include "iostream"
 using namespace std;
 
-void update (long *a, long *b)
+void update (int *a, int *b)
 {
     int ab = *a;
     *a = *a + *b;
-    if(*a>=3514)
-    {
-        *b = ab - *b;
-    }
-    else if(*a>=52185757 && *b>=83911388)
-    {
-        *b = ab - *b  ;
-    }
-    else
-    {
-        *b = *b - ab;
-    }
-
-
+    *b = abs(*b - ab);
 }
 int main()
 {
-    long a, b;
-    long *pa = &a, *pb = &b;
+    int a, b;
+    int *pa = &a, *pb = &b;
     cin>>a>>b;
     update(pa, pb);
     cout<<a<<"\n"<<b;
