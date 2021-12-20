@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/C___Work.dir/main.cpp.o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-HelloWorld!.cpp.o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Input-Output.cpp.o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Basic-Data-Types.cpp.o CMakeFiles/C___Work.dir/Hackerrank/Intro/Intro-Conditional-Statements.cpp.o -o C___Work 
