@@ -1,6 +1,6 @@
-                                               //
-                                               // Created by mustafa on 12/6/21.
-                                               //
+//
+// Created by mustafa on 12/6/21.
+//
 #include "iostream"
 using namespace std;
 
@@ -15,5 +15,5 @@ int main()
     }
     for(int i = n - 1;i>=0; i--)
         cout<<a[i]<<" ";
-   return 0;
+    return 0;
 }
