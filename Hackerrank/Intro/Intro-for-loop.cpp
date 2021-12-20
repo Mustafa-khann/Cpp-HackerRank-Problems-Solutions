@@ -22,7 +22,7 @@ int main()
             }
             else if(a%2!=0)
             {
-                cout<<"odd";
+                cout<<"odd\n";
             }
         }
         ++a;
